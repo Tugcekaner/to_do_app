@@ -1,0 +1,31 @@
+.Todo .row {
+  display: flex;
+  justify-content: center;
+}
+.Todo .todolist {
+  background-color: #d3e099;
+  border-radius: 15%;
+  height: 85vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Todo input {
+  border-radius: 0.5rem;
+}
+.Todo button {
+  width: 80%;
+  margin-top: 1rem;
+  border-radius: 1rem;
+}
+.Todo #colorChoice {
+  border-radius: 0;
+  background-color: black;
+}
+.Todo .list-group {
+  width: 100%;
+}
+.Todo #gorevText {
+  width: 80%;
+}/*# sourceMappingURL=app.css.map */
